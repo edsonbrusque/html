@@ -1,0 +1,4 @@
+www.google.com - absolute? This lacks http://
+../pic/dog.jpg - relative
+/pic/dog.jpg - absolute
+chapter07/index.html - relative
